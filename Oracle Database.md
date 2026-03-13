@@ -1,0 +1,3 @@
+Experience - I tried Oracle Database by downloading it on Windows directly, it worked, but it was a struggle trying to set it up, and uninstalling it was very annoying, as it didn't have its own uninstaller and you had to delete its files and registries manually. I also tried it on Docker as a container, and it was way easier to set up and use, and you can just delete the container / image when you're done with Oracle Database, and you can run it on any OS (since Oracle Database doesn't run on many Linux distros).
+
+Lesson - If you're gonna use Oracle Database, better use it as a container. HOWEVER, I don't know if this is suitable for production of a real project. I only used Oracle Database this way for uni DB lab work.
