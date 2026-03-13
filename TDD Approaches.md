@@ -14,3 +14,5 @@ If you write a function like `calculateOrderTotal`, you obviously need to implem
 # Fake it 'till you make it
 
 For `calculateOrderTotal`, if the test checks for a return value of `808`, you just write the implementation code `return 808`, then you add more tests and improve them as needed.
+
+> [Source](https://www.youtube.com/watch?v=XsFQEUP1MxI&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&index=3&t=534s)
